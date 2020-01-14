@@ -3,7 +3,7 @@
 
 ## :rocket: Sobre o desafio
 
- Aplicação para armazenar projetos e  tarefas utilizando Express. [Express](https://expressjs.com/pt-br/).
+ Aplicação para armazenar projetos e  tarefas utilizando  [Express](https://expressjs.com/pt-br/).
 
 ### Rotas
 
