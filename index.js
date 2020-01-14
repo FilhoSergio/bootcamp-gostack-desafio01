@@ -16,6 +16,14 @@ function checkProjectInArray(req, res, next) {
   return next();
 }
 
+function CountAllReqs(req, res, next) {
+  console.count("Número de requisições");
+
+  return next();
+}
+
+server.use(CountAllReqs);
+
 server.get("/projects", (req, res) => {
   return res.json(projects);
 });
