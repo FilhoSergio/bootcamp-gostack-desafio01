@@ -1,0 +1,14 @@
+{
+  "name": "goStack01",
+  "version": "1.0.0",
+  "description": "Express",
+  "main": "index.js",
+  "author": "Filhosergi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
